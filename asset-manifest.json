@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/AlexBook/static/css/main.24a0ef69.css",
+    "main.js": "/AlexBook/static/js/main.ad90ecf8.js",
+    "static/media/Avatar.jpg": "/AlexBook/static/media/Avatar.eec62c7c2305e43739a4.jpg",
+    "index.html": "/AlexBook/index.html",
+    "main.24a0ef69.css.map": "/AlexBook/static/css/main.24a0ef69.css.map",
+    "main.ad90ecf8.js.map": "/AlexBook/static/js/main.ad90ecf8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24a0ef69.css",
+    "static/js/main.ad90ecf8.js"
+  ]
+}
