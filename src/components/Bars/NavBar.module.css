@@ -1,0 +1,18 @@
+
+
+@media screen and (min-width:var(--lg)) {
+    .logoM{
+        
+    }
+    .logoL{
+        display: none;
+    }
+}
+@media screen and (max-width:var(--lg)) {
+    .logoM{
+        display: none;
+    }
+    .logoL{
+        
+    }
+}
